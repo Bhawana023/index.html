@@ -1,9 +1,6 @@
-<html>
-<head>
-<title> Deploy to Azure </title>
-</head>
-<!----3. Displau the application -->
+html>
+<header><title>This is title</title></header>
 <body>
-Welcome to my site </a>
+Hello world
 </body>
 </html>
